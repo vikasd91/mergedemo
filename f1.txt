@@ -1,0 +1,5 @@
+This is 2nd file
+rrerere
+
+Hi this is git diff demo.
+New line added
